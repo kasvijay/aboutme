@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vijay K A S - iOS Developer and Explorer</title>
-    <link>https://kasvijay.github.io/</link>
+    <link>https://kasvijay.github.io/aboutme/</link>
     <description>Recent content on Vijay K A S - iOS Developer and Explorer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Nov 2017 10:18:47 +0530</lastBuildDate>
     
-	<atom:link href="https://kasvijay.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kasvijay.github.io/aboutme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vapor With Swift4</title>
-      <link>https://kasvijay.github.io/post/vapor-with-swift4/</link>
+      <link>https://kasvijay.github.io/aboutme/post/vapor-with-swift4/</link>
       <pubDate>Thu, 23 Nov 2017 10:18:47 +0530</pubDate>
       
-      <guid>https://kasvijay.github.io/post/vapor-with-swift4/</guid>
+      <guid>https://kasvijay.github.io/aboutme/post/vapor-with-swift4/</guid>
       <description>Step by step guid to install Vapor2.0 and Postgres with Xcode 9.x and Swift 4:  Requirements Vapor Project Heroku Deployment Postgres User and DB Creation Vapor Configuration  Requirements Brew Homebrew needs to be installed first to seamlessly install Vapor and Postgres. To install brew in Mac look at Homebrew
 ##Postgresql Once brew is installed install Postgresql
 $ brew install postgres  Upon successful installation run the below command</description>

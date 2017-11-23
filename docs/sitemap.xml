@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kasvijay.github.io/post/vapor-with-swift4/</loc>
+    <loc>https://kasvijay.github.io/aboutme/post/vapor-with-swift4/</loc>
     <lastmod>2017-11-23T10:18:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://kasvijay.github.io/categories/</loc>
+    <loc>https://kasvijay.github.io/aboutme/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kasvijay.github.io/post/</loc>
+    <loc>https://kasvijay.github.io/aboutme/post/</loc>
     <lastmod>2017-11-23T10:18:47+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kasvijay.github.io/tags/</loc>
+    <loc>https://kasvijay.github.io/aboutme/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kasvijay.github.io/</loc>
+    <loc>https://kasvijay.github.io/aboutme/</loc>
     <lastmod>2017-11-23T10:18:47+05:30</lastmod>
     <priority>0</priority>
   </url>
